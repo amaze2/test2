@@ -11,6 +11,9 @@
   </body>
 </html> -->
 
+---
+title: Adam Mazel: Home
+---
 # Adam Mazel's Website
 ## Welcome
 
