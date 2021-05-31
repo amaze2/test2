@@ -1,3 +1,7 @@
+---
+title: "Adam Mazel: Home"
+---
+
 <!-- <!DOCTYPE html>
 <html>
   <head>
@@ -11,9 +15,6 @@
   </body>
 </html> -->
 
----
-title: "Adam Mazel: Home"
----
 
 # Adam Mazel's Website
 ## Welcome
