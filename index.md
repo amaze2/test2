@@ -1,5 +1,5 @@
 ---
-title: "Adam Mazel: Home"
+title: Adam Mazel: Home
 ---
 
 <!-- <!DOCTYPE html>
