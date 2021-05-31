@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html>
   <head>
     <title>Adam Mazel: Home</title>
@@ -9,4 +9,9 @@
     <p><strong>Welcome</strong> to my <a href="https://en.wikipedia.org/wiki/Website"><em>website</em><a/></p>
   
   </body>
-</html>
+</html> -->
+
+# Adam Mazel's Website
+## Welcome
+
+**Welcome** to my [*website*](https://en.wikipedia.org/wiki/Website)
